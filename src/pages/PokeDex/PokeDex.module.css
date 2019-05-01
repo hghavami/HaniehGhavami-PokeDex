@@ -1,0 +1,16 @@
+.spinnerImg img
+{
+    margin: auto;
+    text-align: center;
+    border: solid 2px red !important;
+}
+.spinnerImg 
+{
+    margin: auto;
+    text-align: center;
+    border: solid 2px red !important;
+}
+.root
+{
+    background-color: rebeccapurple !important;
+}

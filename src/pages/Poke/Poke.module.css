@@ -1,0 +1,49 @@
+.paper {
+   
+    text-align: center;
+    max-width:70% !important;
+margin:  auto;
+}
+
+.root{
+    
+    flex-grow: 1;
+}
+.backBTN{
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+.indexNum
+{
+    float: left;    width: 50%;
+text-align: left;
+}
+.stateTitle{
+    display: inline-block;
+    width: 20%;
+    height: 20px;
+    text-align: left;
+  }
+  .stateProgress{
+    display: inline-block;
+    width: 80%;
+    height: 20px;
+    
+  }
+  .stateInfo{
+    display: inline-block;
+    
+    
+  }
+.stateName h4{
+    text-align: left;
+}
+.pokemonDetail{
+    padding: 25px;
+}
+
+.bg{
+    background-color: #ffcb26 !important;
+    color: #000 !important;
+}

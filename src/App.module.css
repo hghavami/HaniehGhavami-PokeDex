@@ -1,0 +1,23 @@
+.appBar a{
+text-decoration: none !important;
+
+}
+a{
+    text-decoration: none !important;
+}
+.app{
+    user-select: none;
+    text-align: center;
+    margin: 0px auto;
+}
+main{
+    padding: 45px 25px 45px 25px;
+
+}
+.bg{
+      background-image: url('./assets/PokeBackground4.jpg');
+  background-repeat: no-repeat;
+  height: 150px; 
+  background-position: center;
+  background-color: #000 !important;
+}
